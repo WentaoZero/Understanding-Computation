@@ -2,8 +2,8 @@
 
 ###Usage
 
-	cd	chap-x
-	ruby Machine.rb
+	$ cd	chap-x
+	$ ruby Machine.rb
 	
 ###Chapter 2
 1. [Machine.rb](https://github.com/xRahn/Understanding-Computation/blob/master/chap-2/Machine.rb)
